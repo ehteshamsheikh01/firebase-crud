@@ -1,0 +1,24 @@
+.bg-color{
+    background-color: gainsboro;
+}
+.form-bg{
+    background-color: gray;
+    text-align: center;
+}
+#email{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+#pasword{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+h1{
+    padding: 10px 10px 10px 10px;
+}
+#tag{
+  align-items: center;
+}
+.btn{
+    margin-bottom: 20px;
+}

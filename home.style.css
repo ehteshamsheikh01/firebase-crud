@@ -1,0 +1,16 @@
+form{
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+input{
+    font-size: 25px;
+    padding: 5px;
+}
+form-btn{
+    font-size: 25px;
+}
